@@ -1,0 +1,12 @@
+.home {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 100px;
+}
+.home .tags {
+  display: flex;
+  margin-top: 95px;
+  gap: 42px;
+}

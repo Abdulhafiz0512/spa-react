@@ -1,0 +1,21 @@
+.services{
+    margin-top: 36px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.services img:first-child{
+    width: 100%;
+
+}
+.services .tags_top{
+    display: flex;
+
+}
+.services .tags_bottom{
+    display: flex;
+
+}
+
+
